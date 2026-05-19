@@ -35,7 +35,7 @@ start_server.bat
 command = "powershell.exe"
 args = ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\path\\to\\Fordring-comsol-codex-MCP\\start_server.ps1"]
 ```
-## 直接运行
+## Codex辅助运行
 可以发给Codex让它帮忙配置环境，codex自动配置完后重启codex即可使用。
 
 ## 工具
