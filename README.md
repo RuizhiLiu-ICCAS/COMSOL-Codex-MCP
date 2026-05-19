@@ -49,6 +49,10 @@ args = ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\path\\to\\Ford
 - `search_comsol_physics_ids`
 - `search_comsol_physics_feature_ids`
 - `search_comsol_boundary_feature_ids`
+  
+## 功能
+升级后的MCP可以自动读取报错，并关闭报错后在codex里自动修改。除了codex对执行命令的请求，几乎不需要手动。
+内置comsol6.3绝大部分物理场及其下的边界条件等ID号码。
 
 ## 注意
 
